@@ -5,16 +5,15 @@ Annual simulations for 2000 through 2023 were done for the Northern Hemisphere u
 
 The following is a list of input files and science options used in these hemispheric CMAQ simulations.
 
-- CB6R5M_AE7_AQ mechanism
-- No bi-directional NH3 air-surface exchange
-- STAGE module for dry deposition
-- Online windblown dust module turned on
 - Chemical mechanism: cb6r5m updated to include aerosol nitrate photolysis as described in Sarwar et al. (2024)
 - Aerosol module: aero7
 - Domain: Northern Hemisphere using a 108 km grid size and Polar Stereographic projection assuming a spherical earth with radius 6370.0 km.
 - Vertical Resolution: 44 layers from the surface to 50 mb
 - Meteorological fields: WRF4.4.1
 - Emissions: 2019 HTAP v3.0 anthropogenic emissions + GEIA lightning NO + CAMS biogenic VOC + CAMS soil NO.
+- No bi-directional NH3 air-surface exchange
+- STAGE module for dry deposition
+- Online windblown dust module turned on
 
 **Preliminary Evaluations**:
 
