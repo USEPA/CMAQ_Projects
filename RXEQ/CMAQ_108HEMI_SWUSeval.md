@@ -1,4 +1,4 @@
-### Southwest U.S. Evaluation for Spring and Summer 2023
+### Southwest U.S. O3 Evaluation for Spring and Summer 2023
 
 Daytime hourly O3 measurements at CASTNET sites in the southwest U.S. were paired with model predictions by pairs of months in Figure 1. The model tends to overestimate surface level O3 during the summer season. This tendency is not evident in other seasons in this region. 
 
