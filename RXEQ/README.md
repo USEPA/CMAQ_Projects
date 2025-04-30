@@ -7,5 +7,5 @@ The CMAQ model will be applied for multiple years to quantify human exposure to 
 
 The project is also intended to provide complimentary timeseries information about air quality impacts as the EQUATES (AE.3.6.3) project. Many of the model inputs will be leveraged from the EQUATES project and new fire emissions will be generated in a way that is generally consistent with the methods used for that sector as part of the EQUATES project. 
 
-- **[Hemispheric CMAQ application and evaluation](CMAQ_108HEMI.md)**: An overview of the configuration options used for the northern hemispheric CMAQ simulations for 2020 to 2024 and preliminary evaluation information.
-- **[North American CMAQ application and evaluation](CMAQ_36US3.md)**: An overview of the configuration options used for the 36 km North America domain CMAQ simulations for 2020 to 2024 and preliminary evaluation information.
+- **[Hemispheric CMAQ application and evaluation](CMAQ_108HEMI.md)**: An overview of the configuration options used for the northern hemispheric CMAQ simulations for 2020 to 2023 and preliminary evaluation information.
+- **[North American CMAQ application and evaluation](CMAQ_36US3.md)**: An overview of the configuration options used for the 36 km North America domain CMAQ simulations for 2016 to 2023 and preliminary evaluation information.
