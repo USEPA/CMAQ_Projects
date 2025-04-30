@@ -18,7 +18,7 @@ The following is a list of input files and science options used in these hemisph
 **Preliminary Evaluations**:
 
 * [Quarterly O3 and CO vertical profile comparison against IAGOS measurements](./CMAQ_HEMI_iagos.md)
-* [Southwest U.S. region for Spring and Summer 2023](./CMAQ_108HEMI_SWUSeval.md)
+* [Southwest U.S. region O3 for Spring and Summer 2023](./CMAQ_108HEMI_SWUSeval.md)
 
 **References**: 
 
