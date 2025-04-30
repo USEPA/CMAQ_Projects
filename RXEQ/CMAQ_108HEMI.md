@@ -13,7 +13,7 @@ The following is a list of input files and science options used in these hemisph
 - Emissions: 2019 HTAP v3.0 anthropogenic emissions + GEIA lightning NO + CAMS biogenic VOC + CAMS soil NO.
 - No bi-directional NH3 air-surface exchange
 - STAGE module for dry deposition
-- Online windblown dust module turned on
+- Windblown dust module turned on
 
 **Preliminary Evaluations**:
 
