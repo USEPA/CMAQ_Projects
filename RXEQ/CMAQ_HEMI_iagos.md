@@ -1,7 +1,7 @@
 O3 and CO Vertical Profile Comparisons
 ======================================
 
-Model predicted ozone (O3) was paired with vertical measurements made by aircraft as part of the In-service Aircraft for a Global Observing System (IAGOS) (http://www.iagos.fr/cams/). These results are shown aggregated over all available flights.
+Model predicted ozone (O3) and carbon monoxide (CO) were paired with vertical measurements made by aircraft as part of the In-service Aircraft for a Global Observing System (IAGOS) (http://www.iagos.fr/cams/). These results are shown aggregated over all available flights.
 
 --------------------------------------
 
