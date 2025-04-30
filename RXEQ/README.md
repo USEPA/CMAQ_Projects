@@ -5,7 +5,11 @@ This product will consist of the development of a consistent set of modeled fire
 
 The CMAQ model will be applied for multiple years to quantify human exposure to particulate matter less than 2.5 microns (PM2.5) and ozone (O3) from the different types of fire tracked with source apportionment. It is expected that this application will provide needed information about the relative persistence of exposure of population to wildfire compared to other types of managed fires. Currently, little is known about the comparative exposure for people in different parts of the U.S. to wildfire compared to managed fire that may be more common in their area and the times of year that exposure might be typically expected. 
 
-The project is also intended to provide complimentary timeseries information about air quality impacts as the EQUATES (AE.3.6.3) project (https://www.epa.gov/cmaq/equates). Many of the model inputs will be leveraged from the EQUATES project and new fire emissions will be generated in a way that is generally consistent with the methods used for that sector as part of the EQUATES project. 
+The project is also intended to provide complimentary timeseries information about air quality impacts as the EQUATES (AE.3.6.3) project (https://www.epa.gov/cmaq/equates). Many of the model inputs will be leveraged from the EQUATES project and new fire emissions will be generated in a way that is generally consistent with the methods used for that sector as part of the EQUATES project (Beidler et al, 2024). 
 
 - **[Hemispheric CMAQ application and evaluation](CMAQ_108HEMI.md)**: An overview of the configuration options used for the northern hemispheric CMAQ simulations for 2020 to 2023 and preliminary evaluation information.
 - **[North American CMAQ application and evaluation](CMAQ_36US3.md)**: An overview of the configuration options used for the 36 km North America domain CMAQ simulations for 2016 to 2023 and preliminary evaluation information.
+
+**References**
+
+Beidler, J., Pouliot, G., & Foley, K. (2024). 2004–2017 Geospatial dataset of wild and prescribed fire activity over the conterminous United States. Data in Brief, 56, 110856.
