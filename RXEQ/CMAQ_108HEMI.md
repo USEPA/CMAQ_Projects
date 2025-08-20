@@ -12,7 +12,7 @@ The following is a list of input files and science options used in these hemisph
 - Meteorological fields: WRF4.4.1
 - Emissions: 2019 HTAP v3.0 anthropogenic emissions + GEIA lightning NO + CAMS biogenic VOC + CAMS soil NO.
 - No bi-directional NH3 air-surface exchange
-- STAGE module for dry deposition
+- STAGE (E20) module for dry deposition
 - Windblown dust module turned on
 
 **Preliminary Evaluations**:
