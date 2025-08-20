@@ -10,7 +10,7 @@ The following is a list of input files and science options used in these hemisph
 - Domain: Northern Hemisphere using a 108 km grid size and Polar Stereographic projection assuming a spherical earth with radius 6370.0 km.
 - Vertical Resolution: 44 layers from the surface to 50 mb
 - Meteorological fields: WRF4.4.1
-- Emissions: 2019 HTAP v3.0 anthropogenic emissions + GEIA lightning NO + CAMS biogenic VOC + CAMS soil NO.
+- Emissions: 2019 HTAP v3.0 anthropogenic emissions + WWLLNs global lightning + MEGAN v3.2 biogenic VOC, BDSNP soil NO, and FINN v1.5 wildland fire emissions
 - No bi-directional NH3 air-surface exchange
 - STAGE (E20) module for dry deposition
 - Windblown dust module turned on
