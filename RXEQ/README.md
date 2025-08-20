@@ -9,7 +9,7 @@ The project is also intended to provide complimentary timeseries information abo
 
 - **[Hemispheric CMAQ application and evaluation](CMAQ_108HEMI.md)**: An overview of the configuration options used for the northern hemispheric CMAQ simulations for 2020 to 2023 and preliminary evaluation information.
 - **[North American CMAQ application and evaluation](CMAQ_36US3.md)**: An overview of the configuration options used for the 36 km North America domain CMAQ simulations for 2016 to 2023 and preliminary evaluation information.
-- **[Conterminous U.S. CMAQ application and evaluation](CMAQ_12US.md)**: An overview of the configuration options used for the 12 km conterminous U.S. domain CMAQ simulations for 2023 and preliminary evaluation information.
+- **[Conterminous U.S. CMAQ application and evaluation](CMAQ_12US.md)**: An overview of the configuration options used for the 12 km conterminous U.S. domain CMAQ simulation for 2023 and preliminary evaluation information.
   
 **References**
 
